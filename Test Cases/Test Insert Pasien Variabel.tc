@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TAS - Test Insert Pasien Variabel</description>
+   <name>Test Insert Pasien Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cd269f0-f44b-4fa6-8135-bc47758d1756</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e76acbf2-e660-4f27-9764-a43bcbc3e968</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c87ffa0e-d3c9-461f-bbd4-6a716bab5e1d</id>
+      <masked>false</masked>
+      <name>nomerrekam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>acb191c0-8e06-47de-bd03-e3d155240295</id>
+      <masked>false</masked>
+      <name>nomerhp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>666f4062-9c45-4cd6-a8f0-6854a41c5917</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
